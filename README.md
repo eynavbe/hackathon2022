@@ -117,3 +117,12 @@ https://user-images.githubusercontent.com/106392721/170932405-54d5bbdf-db1b-4790
 #### Further development:
 - A chat that will open for each meeting that has passed the conditions so that the meeting took place so that they can talk to each other before and after the meeting.
 - After each meeting he will open an opinion / rating for the meeting about the people and the volunteer and the type of meeting, there will be a learning system where he will not or will offer a meeting with the same people and a volunteer and will also send notifications about "we saw you gave a good opinion for a similar meeting ..."
+
+
+
+
+
+
+
+The project was originally uploaded to my github, eynavhackathon: https://github.com/eynavhackathon/hackathon2022.git
+
